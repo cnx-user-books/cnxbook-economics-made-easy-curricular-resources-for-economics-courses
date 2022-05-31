@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What Is Bitcoin?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66144</md:content-id>
+  <md:title>What Is Bitcoin?</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College explains what bitcoin is and how it works.</md:abstract>
+  <md:uuid>2aa3d371-29f7-48a7-9108-f41b6fc6be3a</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/0iVbzm66_WY"/>
+ </media>
+<caption>"What is Bitcoin?" by the Institute for Humane Studies</caption></figure></para><para id="eip-275"><title>Description</title>Dr. William Luther of Kenyon College explains what bitcoin is and how it works.</para><exercise id="eip-300"><problem id="eip-129">
+  <para id="eip-962">
+    The core of the bitcoin system is
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>the group known as Satoshi Nakamoto.</item>
+  <item>the private key.</item>
+  <item>the public key.</item>
+<item>the block chain.</item>
+</list></para>
+</problem>
+
+<solution id="eip-907">
+  <para id="eip-412">d. the block chain.</para></solution>
+</exercise></content>
+
+</document>

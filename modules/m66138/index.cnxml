@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Switching Costs and Bitcoin</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66138</md:content-id>
+  <md:title>Switching Costs and Bitcoin</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College discusses the costs associated with adopting bitcoin.</md:abstract>
+  <md:uuid>86c8be98-6a99-49f9-aa21-151d97071f46</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/glQLIiutS88"/>
+ </media>
+<caption>"Switching Costs and Bitcoin" by the Institute for Humane Studies</caption></figure></para><para id="eip-624"><title>Description</title>Dr. William Luther of Kenyon College discusses the costs associated with adopting bitcoin.</para><exercise id="eip-178"><problem id="eip-781">
+  <para id="eip-387">What is a "switching cost"?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>The cost of exchanging dollars to bitcoins.</item>
+  <item>The mental cost of determining exchange rates.</item>
+  <item>The cost of joining the bitcoin network.</item>
+  <item>The costs associated with switching to a new currency.</item>
+</list></para></problem>
+
+<solution id="eip-190">
+  <para id="eip-757">d. The costs associated with switching to a new currency.</para></solution>
+</exercise></content>
+
+</document>

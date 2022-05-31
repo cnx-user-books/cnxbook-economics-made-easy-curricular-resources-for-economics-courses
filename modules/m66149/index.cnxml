@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Why Should I Care About Bitcoin?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66149</md:content-id>
+  <md:title>Why Should I Care About Bitcoin?</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College explains why bitcoin is such an important economics and technological innovation.</md:abstract>
+  <md:uuid>2746c038-efed-45cc-9a7e-bd65b565e69d</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/t_FGf2s_sAk"/>
+ </media>
+<caption>"Why Should I Care About Bitcoin?" by the Institute for Humane Studies</caption></figure></para><para id="eip-568"><title>Description</title>Dr. William Luther of Kenyon College explains why bitcoin is such an important economics and technological innovation.</para><exercise id="eip-164"><problem id="eip-706">
+  <para id="eip-625">
+    Which of the following is NOT a benefit of bitcoin?
+ <list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>It allows for transactions to be easily traced.</item>
+  <item>It provides economists with a better understanding of the emergence of different kinds of money.</item>
+  <item>It decreases transaction costs.</item>
+  <item>It provides economists a contemporary example of monetary competition.</item>
+</list></para>
+</problem>
+
+<solution id="eip-263">
+  <para id="eip-346">a. It allows for transactions to be easily traced.</para></solution>
+</exercise></content>
+
+</document>

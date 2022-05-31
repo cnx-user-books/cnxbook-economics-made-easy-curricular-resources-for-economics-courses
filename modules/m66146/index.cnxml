@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Why Does the Value Fluctuate?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66146</md:content-id>
+  <md:title>Why Does the Value Fluctuate?</md:title>
+  <md:abstract>Why is the value of bitcoin constantly changing? Dr. William Luther of Kenyon College explains how the demand for bitcoin affects the purchasing power of bitcoin.</md:abstract>
+  <md:uuid>d2ed5aed-62a3-4569-83f3-a6e6e88425df</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/E1ryoBdosiA"/>
+ </media>
+<caption>"Why Does the Value Fluctuate?" by the Institute for Humane Studies</caption></figure></para><para id="eip-214"><title>Description</title>Why is the value of bitcoin constantly changing? Dr. William Luther of Kenyon College explains how the demand for bitcoin affects the purchasing power of bitcoin.</para><exercise id="eip-311"><problem id="eip-999">
+  <para id="eip-704">
+    Demand for bitcoin is affected by
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>changes to the bitcoin protocol.</item>
+  <item>changes to the perception of the future of bitcoin.</item>
+  <item> the Federal Reserve.</item>
+  <item>nothing; the demand for bitcoin is always steady.</item>
+</list></para>
+</problem>
+
+<solution id="eip-69">
+  <para id="eip-904">b. changes to the perception of the future of bitcoin.</para></solution>
+</exercise></content>
+
+</document>

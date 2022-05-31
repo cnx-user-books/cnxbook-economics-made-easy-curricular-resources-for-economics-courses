@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Processing Payments with Cash, Bitcoin, and Electronic Payments</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66136</md:content-id>
+  <md:title>Processing Payments with Cash, Bitcoin, and Electronic Payments</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College explains how how payments with bitcoin are processed to avoid double spending.</md:abstract>
+  <md:uuid>4044d967-28f0-4d1c-8861-0b5247d4ff1b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/0GPgyTKl3yA"/>
+ </media>
+<caption>"Processing Payments with Cash, Bitcoin, and Electronic Payments" by the Institute for Humane Studies</caption></figure></para><para id="eip-181"><title>Description</title>Dr. William Luther of Kenyon College explains how how payments with bitcoin are processed to avoid double spending.</para><exercise id="eip-807"><problem id="eip-601">
+  <para id="eip-5">
+    To prevent double spending, bitcoin does not rely on a centralized clearing house, but instead relies on
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item> members of the bitcoin system competing to be the first to confirm a block of transactions.</item>
+  <item>members of the bitcoin system competing to counter or destroy a block of transactions.</item>
+  <item>several distinct clearing houses, which are independent from one another.</item>
+  <item>a group of servers on the bitcoin system, which will record their transactions quickly.</item>
+</list></para>
+</problem>
+
+<solution id="eip-459">
+  <para id="eip-875">a. members of the bitcoin system competing to be the first to confirm a block of transactions.</para></solution>
+</exercise></content>
+
+</document>

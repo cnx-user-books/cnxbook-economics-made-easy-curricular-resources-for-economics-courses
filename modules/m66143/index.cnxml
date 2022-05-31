@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>What Is a Cryptocurrency?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66143</md:content-id>
+  <md:title>What Is a Cryptocurrency?</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College defines cryptocurrency.</md:abstract>
+  <md:uuid>9a97d572-8187-4d89-8cca-e56f45a930eb</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/fZl39tqIG3s"/>
+ </media>
+<caption>"What is a Cryptocurrency?" by the Institute for Humane Studies</caption></figure></para><para id="eip-825"><title>Description</title>Dr. William Luther of Kenyon College defines cryptocurrency.</para><exercise id="eip-927"><problem id="eip-252">
+  <para id="eip-209">
+    The ‘Crypto’ in cryptocurrency means that
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>the currency is guaranteed to be valuable after a predetermined amount of time.</item>
+  <item>the currency exists in the digital world, and relies on encryption to make transactions secure.</item>
+  <item>the currency is intended for use as a commonly accepted medium of exchange.</item>
+<item>the currency’s value is determined by a central bank that makes judgements based on the type of encryption used.</item>
+</list> 
+  </para>
+</problem>
+
+<solution id="eip-656">
+  <para id="eip-53">b. the currency exists in the digital world, and relies on encryption to make transactions secure.  </para>
+</solution>
+</exercise></content>
+
+</document>

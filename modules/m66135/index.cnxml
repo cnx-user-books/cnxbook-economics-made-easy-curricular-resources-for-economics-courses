@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Network Effects and Bitcoin</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66135</md:content-id>
+  <md:title>Network Effects and Bitcoin</md:title>
+  <md:abstract>According to Dr. William Luther of Kenyon College, entrepreneurs are finding innovative ways to solve bitcoin's network effect problem.</md:abstract>
+  <md:uuid>bc4c53af-a7f6-4f05-adf6-f9989d0f487c</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/-otT_eJluYE"/>
+ </media>
+<caption>"Network Effects and Bitcoin" by the Institute for Humane Studies</caption></figure></para><para id="eip-687"><title>Description</title>According to Dr. William Luther of Kenyon College, entrepreneurs are finding innovative ways to solve bitcoin's network effect problem.</para><exercise id="eip-468"><problem id="eip-53">
+  <para id="eip-402">
+    The network of bitcoin users
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>is too large for bitcoin to function in the immediate future.</item>
+  <item>is constantly shrinking due to the bitcoin protocol.</item>
+  <item>is small, but growing steadily.</item>
+  <item>is large, but slowly shrinking.</item>
+</list></para>
+</problem>
+
+<solution id="eip-133">
+  <para id="eip-776">c. is small, but growing steadily.</para></solution>
+</exercise></content>
+
+</document>

@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Central Banking Explained</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66110</md:content-id>
+  <md:title>Central Banking Explained</md:title>
+  <md:abstract>Dr. William Luther of Kenyon College discusses how the lack of a central bank affects bitcoin.</md:abstract>
+  <md:uuid>8a67af76-ade2-42bf-b5c5-c00b389ec820</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/TFSyNBMzlwo"/>
+ </media>
+<caption>"Central Banking Explained" by the Institute for Humane Studies</caption></figure></para><para id="eip-282"><title>Description</title>Dr. William Luther of Kenyon College discusses how the lack of a central bank affects bitcoin.</para><exercise id="eip-629"><problem id="eip-545">
+  <para id="eip-531">Why are some economists afraid that bitcoin will suffer from frequent monetary demand shocks?
+<list id="grocerylist" list-type="enumerated" number-style="lower-alpha"><item>All new currencies suffer these shocks.</item>
+  <item>The supply of bitcoin cannot be be changed to meet increases in demand.</item>
+  <item>Fiat money frequently suffers monetary demand shocks.</item>
+  <item>The supply of bitcoin is regulated at the discretion of central bankers.</item>
+</list></para></problem>
+
+<solution id="eip-709">
+  <para id="eip-685">b. The supply of bitcoin cannot be be changed to meet increases in demand.</para></solution>
+</exercise></content>
+
+</document>
