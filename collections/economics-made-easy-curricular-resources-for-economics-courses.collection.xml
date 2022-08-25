@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col23804</md:content-id>
     <md:title>Economics Made Easy: Curricular Resources for Economics Courses</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>97df559c-f57f-49eb-9235-f752d0b97cff</md:uuid>
-<md:slug>economics-made-easy-curricular-resources-for-economics-courses</md:slug>
-</metadata>
+    <md:slug>economics-made-easy-curricular-resources-for-economics-courses</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m65514"/>
     <col:subcollection>
